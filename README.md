@@ -4,16 +4,16 @@ The idea is simple. I introduce a special measure of distance between actors. Ho
 So, I obtained  all pairwise move distances for highest-paid actors of 2019. They are:
 
 
-Dwayne Johnson
-Chris Hemsworth
-Robert Downey Jr.
-Akshay Kumar
-Jackie Chan
-Bradley Cooper
-Adam Sandler
-Scarlett Johansson
-Sofia Vergara
-Chris Evans
+* Dwayne Johnson;
+* Chris Hemsworth;
+* Robert Downey Jr.;
+* Akshay Kumar;
+* Jackie Chan;
+* Bradley Cooper;
+* Adam Sandler;
+* Scarlett Johansson;
+* Sofia Vergara;
+* Chris Evans.
 
 I explored not all the movies, where an actor played, but only 5 latest movies. And only those actors, who played top 5 roles. 
 More over,  that if a connection between two actors is bigger than 3, then there is no connection between the actors (infinite distance).
